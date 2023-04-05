@@ -1,0 +1,4 @@
+# ignore all .url .pdf .png files
+*.url
+*.pdf
+*.png
