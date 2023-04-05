@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "251c298d9cdcebc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9034d8be6a847526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658008a87df9af3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "551b846e24dffcd0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa35e7e6f49f5d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constraints.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b47af02e7714690a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd5a246d89c6c63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1e07f745c6c03a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4369b70bababc122",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cebf0d4168f84db5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "03d57c64cb0455d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c9c64d5dad96c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9041c9ef99c4bb69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intelligence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59d13133f6e9cdd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Intelligence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c43c94da3752ec68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90e41fd0c347dfe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intelligence.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "658008a87df9af3c",
+  "lastOpenFiles": [
+    "Representations.md",
+    "Constraints.md",
+    "Generate and Test.md",
+    "Intelligence.md",
+    "Models.md"
+  ]
+}
